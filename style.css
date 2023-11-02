@@ -1,0 +1,26 @@
+header{
+    height: 600px;
+    background-image: url(maxresdefault\ \(1\));
+    background-image: url(https://i.ytimg.com/vi/AMrGZaKlg-k/maxresdefault.jpg);
+    color: darkgrey;
+    background-position-y: -100px;
+    background-position-x: -50px;
+    font-family: 'Centaur';
+    font-family: Georgia, serif;
+    text-align: center;
+    
+}
+body{
+    background-color: black;
+    color: darkgrey;
+    font-family: 'Centaur';
+    font-family: Georgia, serif;
+}
+footer{
+    color: darkgrey;
+    font-family: 'Centaur';
+    font-family: Georgia, serif;
+}
+
+    
+    
